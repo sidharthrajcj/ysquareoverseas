@@ -24,8 +24,10 @@ As part of this project, I contributed to the design, focusing on creating a cle
 ## Screenshots
 Here are some screenshots to illustrate the design and layout of the website:
 
-![Homepage](https://example.com/screenshot-homepage.jpg)  
-![Services Section](https://example.com/screenshot-services.jpg)
+![Homepage](https://github.com/sidharthrajcj/ysquareoverseas/blob/main/home.png)
+![AboutPage](https://github.com/sidharthrajcj/ysquareoverseas/blob/64d731c44965dcbadd462575c03a51d3e8d086c0/About.png)
+![Corsepage](https://github.com/sidharthrajcj/ysquareoverseas/blob/main/Courses.png)
+![Servicepage](https://github.com/sidharthrajcj/ysquareoverseas/blob/main/services.png)
 
 ## My Role
 I worked on the frontend development and design of this project, using HTML, CSS, Bootstrap, and JavaScript to build the static pages and ensure the website is responsive and user-friendly. I also played a key role in designing the user interface, focusing on aesthetics and usability.
